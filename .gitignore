@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
