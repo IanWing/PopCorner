@@ -182,5 +182,5 @@ See [LICENSE](LICENSE) for the complete license terms.
 PopCorner is an independent project developed with ❤️ by **Christian Attanasio**.
 
 - [GitHub](https://github.com/IanWing)
-- Website (Coming soon)
+- [Website](https://popcorner.app/)
 - [Ko-fi](https://ko-fi.com/ianwing)
